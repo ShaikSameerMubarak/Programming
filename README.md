@@ -1,4 +1,4 @@
-# Steps To compile & run UDP_Client & UDP_Server in Windows Machine:
+# Steps to compile & run UDP_Client & UDP_Server in Windows Machine:
 
 -> The program tagged with the actual file contains UDP_Client/UDP_Server program in Windows called "Winsock Programming". 
 -> Steps For Compilation in Windows Machine
