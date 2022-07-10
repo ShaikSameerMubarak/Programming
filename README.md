@@ -1,6 +1,6 @@
 # Steps To compile & run UDP_Client & UDP_Server in Windows Machine:
 
--> The program tagged with the containing file contains UDP_Client/UDP_Server program in Windows called "Winsock Programming". 
+-> The program tagged with the actual file contains UDP_Client/UDP_Server program in Windows called "Winsock Programming". 
 -> Steps For Compilation in Windows Machine
      1. Save the file in Windows file explorer in some location with (.c) extension.
      2. Now make sure you have installed MinGW in your Machine.
